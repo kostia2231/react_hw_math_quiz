@@ -1,0 +1,21 @@
+.gameWrapper {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  border: 2px violet solid;
+  border-radius: 8px;
+  background-color: aqua;
+}
+
+.gameWrapper h1 {
+  font-size: 28px;
+  margin: 0;
+}
+
+.gameWrapper p {
+  font-size: 28px;
+  font-weight: 600;
+}
